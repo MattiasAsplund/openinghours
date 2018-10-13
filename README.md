@@ -17,10 +17,10 @@ as the "system under test".
 
 An MVC project contains an API controller that also
 uses OpeningHoursChecker to return true or false based
-on the following paramters: year, month, day, hour and
+on the following parameters: year, month, day, hour and
 minute.
 
 ## Prerequisites
 
-- Latest update of Visual Studio Enterprise 2017
+- Visual Studio 2017 with support for SQL Projects
 - SQL Server
